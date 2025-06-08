@@ -10,8 +10,8 @@ Open source puzzles can be fond here:
 
 ## Python
 
-- See bottom of file xxx to get example usage.
-- Unit tests in xxx
+- See bottom of file [https://github.com/moote/SudokuBruteForce/blob/main/python/sudoku_brute_solver.py](/python/sudoku_brute_solver.py) to get example usage.
+- Unit tests in [https://github.com/moote/SudokuBruteForce/blob/main/python/unit_tests.py](/python/unit_tests.py)
 
 ## Typescript
 
